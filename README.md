@@ -1,4 +1,4 @@
-Predictor de Abandono de Empleados
+Predictor de Abandono de Colaboradores
 
 Este proyecto tiene como objetivo predecir el abandono de colaboradores utilizando datos históricos de la empresa. El modelo de predicción se construye utilizando un algoritmo de Árbol de Decisión, una técnica de aprendizaje automático poderosa e interpretable. El proyecto incluye preprocesamiento de datos, análisis exploratorio de datos (EDA), entrenamiento y evaluación del modelo.
 
